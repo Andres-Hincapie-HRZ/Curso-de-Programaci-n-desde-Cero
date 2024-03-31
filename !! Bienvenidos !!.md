@@ -1,0 +1,1 @@
+<h3 align="left">👋 ¡Hola Bienvenidos! En este repositorio podrás encontrar todos los ejercicios que vemos en el curso de programación desde cero, para que descargues y practiques y mejores tu lógica de programación.</h3>
